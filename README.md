@@ -1,4 +1,4 @@
-# Mark AnthonyGarcia
+# Mark Anthony Garcia
 Welcome to my personal portfolio!
 
 ## About Me
