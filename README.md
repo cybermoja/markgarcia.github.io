@@ -12,7 +12,7 @@ Languages
 - Typescript
 - HTML, CSS
 
-Framworks/Libraries
+Frameworks/Libraries
 - ASP.net Framework/Core
 - MVC
 - React (JS,Native)
